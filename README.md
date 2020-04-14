@@ -8,4 +8,4 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 3. Livability visualization
 
-1. Twitter API data collection
+
