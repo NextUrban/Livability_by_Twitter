@@ -2,7 +2,7 @@
 This repository is a framework for Livability planing portfolio projects. New guidelines will be added soon.
 
 # Table of Content
-== Twitter API data collection == 
+1. [Twitter API data collection](Twitter API data collection)
 
 2. fastText sentiment analysis
 
@@ -10,7 +10,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 # Resources
 
-Twitter API data collection
+## Twitter API data collection
 
 First we need to download and install the R software and the necessary packages such as TwitteR:
 
