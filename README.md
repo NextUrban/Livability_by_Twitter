@@ -10,4 +10,8 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 # Resources
 
+First we need to download and install the R software and the necessary packages such as TwitteR:
 
+Download R software[here](https://cran.r-project.org/bin/macosx/)
+Download R packages [Here](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
+Download TwitterR packages [Here]( )
