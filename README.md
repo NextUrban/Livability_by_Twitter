@@ -2,7 +2,7 @@
 This repository is a framework for Livability planing portfolio projects. New guidelines will be added soon.
 
 # Table of Content
-⋅⋅* Twitter API data collection.
+⋅⋅* Unordered sub-list. Twitter API data collection.
 
 2. fastText sentiment analysis
 
