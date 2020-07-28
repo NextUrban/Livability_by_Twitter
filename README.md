@@ -10,7 +10,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
-* [Twitter API application]()
+* [Twitter API application](https://github.com/NextUrban/livTwi/blob/master/README.md#twitter-api-application)
 * [Data collection]()
 
 [2.   fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
