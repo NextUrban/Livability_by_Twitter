@@ -1,9 +1,8 @@
 # livTwi
 This repository is a framework for Livability planing portfolio projects. New guidelines will be added soon.
 
-# Table of Content
 
-Installation 
+# Table of Content
 
 [1. Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
@@ -15,6 +14,8 @@ Installation
 [3. Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
 
 [4. Resources]()
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1. Twitter Authentication
 
@@ -47,6 +48,7 @@ Manual topic and location filtration
 
 $ 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. fastText sentiment analysis
 Applicable and proficient training data sets:
@@ -54,10 +56,12 @@ Applicable and proficient training data sets:
  * [Sentiment 140](http://help.sentiment140.com/for-students)
  
  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  ## 3. Livability satisfaction visualization
  
  [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
- 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  ## 4. Resources
