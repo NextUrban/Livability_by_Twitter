@@ -5,7 +5,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 Installation 
 
-[1. Twitter Authentication](## 1. Twitter Authentication)
+* [1. Twitter Authentication](## 1. Twitter Authentication)
 
 [2. fastText sentiment analysis](## 2. fastText sentiment analysis)
 
