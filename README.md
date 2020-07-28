@@ -48,7 +48,7 @@ Manual topic and location filtration
 
 $ 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 2. fastText sentiment analysis
 Applicable and proficient training data sets:
@@ -56,12 +56,12 @@ Applicable and proficient training data sets:
  * [Sentiment 140](http://help.sentiment140.com/for-students)
  
  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  
  ## 3. Livability satisfaction visualization
  
  [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
  ## 4. Resources
