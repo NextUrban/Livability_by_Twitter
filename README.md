@@ -19,7 +19,7 @@ Installation
 
 Step 1. First we need to download and install the R software and the necessary packages such as rTweets:
 
-* Download R Studio [here] (https://rstudio.com/products/rstudio/download/)
+* Download R Studio [here](https://rstudio.com/products/rstudio/download/)
 
 * Download R software [here](https://cran.r-project.org/bin/macosx/)
 
