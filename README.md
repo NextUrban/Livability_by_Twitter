@@ -17,7 +17,7 @@ Installation
 
 ### Necessary softwares and libraries
 
-Step 1. First we need to download and install the R software and the necessary packages such as rTweets:
+Step 1. First we need to download and install the latest release of R and the necessary packages such as rTweets:
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
