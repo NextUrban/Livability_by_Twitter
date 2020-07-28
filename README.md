@@ -6,7 +6,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 [Installation](https://github.com/NextUrban/livTwi/blob/master/README.md#installation)
 
-* [Necessary softwares and libraries]()
+* [Necessary softwares and libraries](https://github.com/NextUrban/livTwi/blob/master/README.md#necessary-softwares-and-libraries)
 
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
