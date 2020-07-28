@@ -6,10 +6,12 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 [Installation]()
 
+* [Necessary softwares and libraries]()
+
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
-* [Necessary softwares and libraries]()
-* [Twitter API data collection]()
+* [Twitter API application]()
+* [Data collection]()
 
 [2.   fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
 
@@ -21,7 +23,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 ## Installation
 
-Step 1. First we need to download and install the latest release of R and the necessary packages such as rTweets:
+First we need to download and install the latest release of R and the necessary packages such as rTweets:
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
@@ -41,9 +43,9 @@ $
 
 ## 1. Twitter Authentication
 
-  ### Twitter API data collection
+  ### Twitter API application
 
-Step 2. Creating a Twitter application is in the next process.
+Creating a Twitter application is in the next step.
 
   * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to link your program and application. 
 
@@ -53,6 +55,7 @@ Manual topic and location filtration
 
 $ 
 
+  ### Data collection
 
 
 ## 2. fastText sentiment analysis
