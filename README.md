@@ -43,3 +43,8 @@ More details regarding the [data]() and [location](https://developer.twitter.com
 Manual topic and location filtration
 
 $ 
+
+
+Applicable and proficient training data sets:
+
+ * [Sentiment 140](http://help.sentiment140.com/for-students)
