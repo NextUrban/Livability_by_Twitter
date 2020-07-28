@@ -27,7 +27,7 @@ Step 1. First we need to download and install the latest release of R and the ne
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
 
-    ### Necessary softwares and libraries
+   ### Necessary softwares and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
