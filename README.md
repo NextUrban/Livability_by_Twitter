@@ -40,6 +40,6 @@ Step 2. Creating a Twitter application is the next process.
 
 More details regarding the [data]() and [location](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location) information
 
-Manual topic and location filteration
+Manual topic and location filtration
 
 $ 
