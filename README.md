@@ -4,6 +4,8 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 # Table of Content
 
+[Installation]()
+
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
 * [Necessary softwares and libraries]()
@@ -17,8 +19,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 1. Twitter Authentication
-
+## Installation
 
 Step 1. First we need to download and install the latest release of R and the necessary packages such as rTweets:
 
@@ -37,6 +38,8 @@ macOS (manual installation)
 
 $
 
+
+## 1. Twitter Authentication
 
   ### Twitter API data collection
 
