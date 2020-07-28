@@ -31,9 +31,6 @@ macOS (manual installation)
 
 
 
-
-Download TwitterR packages [here]( )
-
 ### Twitter API data collection
 
 Step 2. Creating a Twitter application is the next process.
