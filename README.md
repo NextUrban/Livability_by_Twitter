@@ -5,15 +5,15 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 Installation 
 
-1. Twitter Authentication
+[1. Twitter Authentication](## 1. Twitter Authentication)
 
-2. fastText sentiment analysis
+[2. fastText sentiment analysis](## 2. fastText sentiment analysis)
 
-3. Livability satisfaction visualization
+[3. Livability satisfaction visualization](## 3. Livability satisfaction visualization)
 
 # Resources
 
-
+## 1. Twitter Authentication
 ### Necessary softwares and libraries
 
 Step 1. First we need to download and install the latest release of R and the necessary packages such as rTweets:
@@ -43,6 +43,13 @@ Manual topic and location filtration
 $ 
 
 
+## 2. fastText sentiment analysis
 Applicable and proficient training data sets:
 
  * [Sentiment 140](http://help.sentiment140.com/for-students)
+ 
+ 
+ 
+ ## 3. Livability satisfaction visualization
+ 
+ [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
