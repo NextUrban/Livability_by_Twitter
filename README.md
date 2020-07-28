@@ -28,8 +28,7 @@ Step 1. First we need to download and install the latest release of R and the ne
 
 macOS (manual installation)
 
-
-
+$
 
 
 ### Twitter API data collection
