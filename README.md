@@ -7,7 +7,7 @@ Installation
 
 <## 1. Twitter Authentication>
 
-1.[1. Twitter Authentication](#twitterauthentication)
+[1. Twitter Authentication](##1.twitterauthentication)
 
 [2. fastText sentiment analysis](## 2. fastText sentiment analysis)
 
