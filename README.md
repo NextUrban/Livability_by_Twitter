@@ -4,7 +4,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 # Table of Content
 
-[1 Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
+[1. Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
    * [Necessary softwares and libraries]()
    * [Twitter API data collection]()
@@ -27,7 +27,7 @@ Step 1. First we need to download and install the latest release of R and the ne
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
 
-    ### Necessary softwares and libraries
+   ### Necessary softwares and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
@@ -36,7 +36,7 @@ macOS (manual installation)
 $
 
 
-    ### Twitter API data collection
+   ### Twitter API data collection
 
 Step 2. Creating a Twitter application is in the next process.
 
