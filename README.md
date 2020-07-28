@@ -34,7 +34,7 @@ macOS (manual installation)
 
 ### Twitter API data collection
 
-Step 2. Creating a Twitter application is the next process.
+Step 2. Creating a Twitter application is in the next process.
 
   * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided to the users. 
 
