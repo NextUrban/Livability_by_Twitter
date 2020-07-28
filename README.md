@@ -19,6 +19,8 @@ Installation
 
 Step 1. First we need to download and install the R software and the necessary packages such as rTweets:
 
+macOS (manual installation)
+
 Download R software [here](https://cran.r-project.org/bin/macosx/)
 
 Download R packages [here](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
@@ -28,3 +30,4 @@ Download TwitterR packages [here]( )
 ### Twitter API data collection
 
 Step 2. Creating a Twitter application is next in the process.
+
