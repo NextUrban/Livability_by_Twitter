@@ -4,16 +4,16 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 # Table of Content
 
-[1. Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
+[1   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
-   * [1.1 Necessary softwares and libraries]()
-   * [1.2 Twitter API data collection]()
+   * [1.1  Necessary softwares and libraries]()
+   * [1.2  Twitter API data collection]()
 
-[2. fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
+[2   fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
 
-[3. Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
+[3   Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
 
-[4. Resources]()
+[4   Resources]()
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,8 +26,10 @@ Step 1. First we need to download and install the latest release of R and the ne
 
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
-  
-  ### 1.1 Necessary softwares and libraries
+
+After every software update, XQartz needs to be reinstalled.
+
+  ### 1.1  Necessary softwares and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
@@ -36,7 +38,7 @@ macOS (manual installation)
 $
 
 
-  ### Twitter API data collection
+  ### 1.2  Twitter API data collection
 
 Step 2. Creating a Twitter application is in the next process.
 
