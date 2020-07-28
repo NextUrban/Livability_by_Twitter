@@ -7,7 +7,7 @@ Installation
 
 [1. Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
-[2. fastText sentiment analysis](## 2. fastText sentiment analysis)
+[2. fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
 
 [3. Livability satisfaction visualization](## 3. Livability satisfaction visualization)
 
