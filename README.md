@@ -23,7 +23,7 @@ Step 1. First we need to download and install the R software and the necessary p
 
 * [R software](https://cran.r-project.org/bin/macosx/)
 
-* [R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
+* [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
 macOS (manual installation)
 
