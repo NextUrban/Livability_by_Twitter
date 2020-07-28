@@ -27,7 +27,7 @@ Step 1. First we need to download and install the latest release of R and the ne
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
 
-#### Necessary softwares and libraries
+    ### Necessary softwares and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
@@ -36,11 +36,11 @@ macOS (manual installation)
 $
 
 
-### Twitter API data collection
+   ### Twitter API data collection
 
 Step 2. Creating a Twitter application is in the next process.
 
-  * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided to the users. 
+  * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to link your program and application. 
 
   * More details regarding the [data]() and [location](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location) information
 
