@@ -9,7 +9,7 @@ Installation
 
 [2. fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
 
-[3. Livability satisfaction visualization](## 3. Livability satisfaction visualization)
+[3. Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
 
 # Resources
 
