@@ -4,6 +4,8 @@ This repository is a framework for Livability planing portfolio projects. New gu
 # Table of Content
 [Twitter API data collection](## Twitter API data collection)
 
+Installation 
+
 1. Twitter Authentication
 
 2. fastText sentiment analysis
