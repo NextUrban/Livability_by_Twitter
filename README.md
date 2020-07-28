@@ -34,11 +34,11 @@ macOS (manual installation)
 
 ### Twitter API data collection
 
-By applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access)
-
 Step 2. Creating a Twitter application is the next process.
 
-More details regarding the [data]() and [location](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location) information
+  * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided to the users. 
+
+  * More details regarding the [data]() and [location](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location) information
 
 Manual topic and location filtration
 
