@@ -4,18 +4,25 @@ This repository is a framework for Livability planing portfolio projects. New gu
 # Table of Content
 [Twitter API data collection](## Twitter API data collection)
 
+1. Twitter Authentication
+
 2. fastText sentiment analysis
 
-3. Livability visualization
+3. Livability satisfaction visualization
 
 # Resources
 
-### Twitter API data collection
 
-First we need to download and install the R software and the necessary packages such as rTweets:
+### Necessary softwares and libraries
+
+Step 1. First we need to download and install the R software and the necessary packages such as rTweets:
 
 Download R software [here](https://cran.r-project.org/bin/macosx/)
 
 Download R packages [Here](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
 Download TwitterR packages [Here]( )
+
+### Twitter API data collection
+
+Step 2. Creating a Twitter application is next in the process.
