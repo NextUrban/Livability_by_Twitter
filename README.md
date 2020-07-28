@@ -29,5 +29,5 @@ Download TwitterR packages [here]( )
 
 ### Twitter API data collection
 
-Step 2. Creating a Twitter application is next in the process.
+Step 2. Creating a Twitter application is the next process.
 
