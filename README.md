@@ -5,7 +5,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 Installation 
 
-[1. Twitter Authentication](##1. Twitter Authentication)
+[1. Twitter Authentication](#1. Twitter Authentication)
 
 [2. fastText sentiment analysis](## 2. fastText sentiment analysis)
 
@@ -13,7 +13,7 @@ Installation
 
 # Resources
 
-## 1. Twitter Authentication
+# 1. Twitter Authentication
 ### Necessary softwares and libraries
 
 Step 1. First we need to download and install the latest release of R and the necessary packages such as rTweets:
