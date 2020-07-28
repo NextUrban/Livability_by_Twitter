@@ -22,7 +22,7 @@ Step 1. First we need to download and install the R software and the necessary p
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
 * [R software](https://cran.r-project.org/bin/macosx/)
-  * [Xquartz](https://www.xquartz.org/)
+  * [XQuartz](https://www.xquartz.org/)
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
