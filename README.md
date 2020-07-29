@@ -59,7 +59,7 @@ $
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) provides more details regarding the data characteristics.
  
-
+$
 
 ## 2. fastText sentiment analysis
 Applicable and proficient training data sets:
