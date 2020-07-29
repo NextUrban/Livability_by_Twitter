@@ -17,7 +17,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 [3.   Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
 
-[4.   Resources]()
+[Resources](https://github.com/NextUrban/livTwi/blob/master/README.md#4-resources)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ Applicable and proficient training data sets:
  
 
 
- ## 4. Resources
+ ## Resources
