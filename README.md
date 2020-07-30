@@ -65,7 +65,7 @@ More details regarding the data characteristics are provided below:
 $
 
 ## 2. fastText sentiment analysis
-Applicable and proficient training data sets:
+Applicable and proficient training datasets:
 
  * [Sentiment 140](http://help.sentiment140.com/for-students)
  
