@@ -76,6 +76,6 @@ Applicable and proficient training datasets:
  
  [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
-
+$
 
  ## Resources
