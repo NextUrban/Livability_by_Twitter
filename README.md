@@ -23,7 +23,7 @@ This repository is a framework for Livability planing portfolio projects. New gu
 
 ## Installation
 
-First we need to download and install the latest release of R and the necessary packages such as rTweets:
+First step is to download and install the latest release of R and the necessary packages such as rTweets:
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
@@ -58,6 +58,7 @@ $
   ### Data collection
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) provides more details regarding the data characteristics.
+ * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
  
 $
 
