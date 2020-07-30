@@ -57,7 +57,9 @@ $
 
   ### Data collection
 
- * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) provides more details regarding the data characteristics.
+More details regarding the data characteristics are provided below:
+
+ * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
  * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
  
 $
