@@ -30,7 +30,7 @@ First step is to download and install the latest release of R and the necessary 
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
 
-After every software update, XQartz needs to be reinstalled.
+Note: after every major upgrade to a new version, XQartz needs to be re-installed.
 
    ### Necessary softwares and libraries
 
