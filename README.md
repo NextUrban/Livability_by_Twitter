@@ -74,13 +74,13 @@ Applicable and proficient training datasets:
  * [Sentiment 140](http://help.sentiment140.com/for-students)
  
  
- * [customized SA code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
+ * Customized fastText [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
  
  ## 3. Livability satisfaction visualization
  
  [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
- sentiments to map [conversion code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) (Please be patient the page would takes time to open).
+ Converting sentiments to map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is applicatble to use in a dashboard setting as well (Please be patient the page would takes time to load).
  
 $
 
