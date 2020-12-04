@@ -74,7 +74,7 @@ Applicable and proficient training datasets:
  * [Sentiment 140](http://help.sentiment140.com/for-students)
  
  
- 
+ * [customized code](https://github.com/NextUrban/hh/blob/master/sentiment_analysis.py)
  
  ## 3. Livability satisfaction visualization
  
