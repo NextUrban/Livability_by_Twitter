@@ -80,6 +80,8 @@ Applicable and proficient training datasets:
  
  [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
+ sentiments to map [conversion code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) (Please be patient the page would takes time to open).
+ 
 $
 
  ## Resources
