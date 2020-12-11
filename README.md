@@ -88,9 +88,6 @@ Applicable and proficient training datasets:
  
  * Regarding the initial Jupyter Notebook installation packages, you may refer to [](). 
  
- 
- 
-$
 
  ## Resources
  
