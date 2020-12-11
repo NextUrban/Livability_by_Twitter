@@ -88,7 +88,7 @@ Applicable and proficient training datasets:
   
   The initial installation package for Jupyter Notebook can be found [here]().  
  
- There code would inquire the state Geospatial metadata as a geojson file. The related files regarding each state was extracted initially from [](). An example is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
+ There code would inquire the state Geospatial metadata as a geoJSON file. The related files regarding each state was extracted initially from [](). An example is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
  
  
  
