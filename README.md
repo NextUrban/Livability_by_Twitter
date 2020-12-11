@@ -77,7 +77,7 @@ Applicable and proficient training datasets:
  
  * Customized fastText [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
  
- Furthur information can be fount [here](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/)
+ Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html)
  
  
  ## 3. Livability satisfaction visualization
