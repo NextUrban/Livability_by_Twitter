@@ -82,7 +82,7 @@ Applicable and proficient training datasets:
  
  ## 3. Livability satisfaction visualization
  
- After recieving the reliable sententiment output from section 2, a data-driven visualization process could reveal resential satisfaction at the census tract level.
+ After recieving the reliable sententiment output from section 2, a data-driven visualization process eventually reveals the resential satisfaction at the census tract level.
  
   Therefore, in this section the aim is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble to use in a dashboard setting (Please stay patient, the page takes time to load). 
   
