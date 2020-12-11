@@ -77,6 +77,9 @@ Applicable and proficient training datasets:
  
  * Customized fastText [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
  
+ Furthur information can be fount [here](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/)
+ 
+ 
  ## 3. Livability satisfaction visualization
  
  After recieving the reliable sententiment output from section 2, the final visualization process would reveal resentials' satisfaction at the census tract level.
