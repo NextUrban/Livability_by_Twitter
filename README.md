@@ -82,11 +82,13 @@ Applicable and proficient training datasets:
  
  ## 3. Livability satisfaction visualization
  
- After recieving the reliable sententiment output from section 2, the final visualization process would reveal resentials' satisfaction at the census tract level.
+ After recieving the reliable sententiment output from section 2, a data-driven visualization process could reveal resential satisfaction at the census tract level.
  
-  In this section, the aim is converting sentiments to map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble to use in a dashboard setting (Please stay patient, the page takes time to load). The neccessary installation package can find at  
+  Therefore, in this section the aim is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble to use in a dashboard setting (Please stay patient, the page takes time to load). 
+  
+  The initial installation package for Jupyter Notebook can be found [here]().  
  
- the [Geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) of the state would be used to 
+ There code would inquire the state Geospatial metadata as a geojason file. The related files regarding each state was extracted initially from [](). An example is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
  
  
  
