@@ -82,13 +82,11 @@ Applicable and proficient training datasets:
  
  ## 3. Livability satisfaction visualization
  
- After recieving the reliable sententiment output from section 2, a data-driven visualization process eventually reveals the resential satisfaction at the census tract level.
+ After recieving the reliable sententiment output from section 2, a data-driven visualization would reveal the resential satisfaction at the census tract level. Hence, the goal is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
-  Therefore, in this section the aim is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble to use in a dashboard setting (Please stay patient, the page takes time to load). 
-  
-  The initial installation package for Jupyter Notebook can be found at []().  
+ The code would require using the state zipcode boundries. Therefore, Geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). The applied file for the current state project is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
  
- There code would require using the state zipcode boundries. Therefore, Geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). The applied file for the current state project is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
+ The initial installation packages regarding the Jupyter Notebook installation can be found at [](). 
  
  
  
