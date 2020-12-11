@@ -86,9 +86,9 @@ Applicable and proficient training datasets:
  
   Therefore, in this section the aim is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble to use in a dashboard setting (Please stay patient, the page takes time to load). 
   
-  The initial installation package for Jupyter Notebook can be found [here]().  
+  The initial installation package for Jupyter Notebook can be found at []().  
  
- There code would inquire the state Geospatial metadata as a geoJSON file. The related files regarding each state was extracted initially from [](). An example is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
+ There code would require using the state zipcode boundries. Therefore, Geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). The applied file for the current state project is available [here](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata).
  
  
  
