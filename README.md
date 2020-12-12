@@ -25,7 +25,7 @@ Users’ satisfaction of the neighborhoods will be evaluated through a social me
 
 ## Installation
 
-First step is to download and install the latest release of R and the necessary packages such as rTweets:
+First step in the process is to download and install the latest release of R and necessary packages such as rTweets:
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
