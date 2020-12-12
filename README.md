@@ -86,15 +86,14 @@ Applicable and proficient training datasets:
  
  The code would require using the state zipcode boundries. Therefore, Geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the [link](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file for the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs).
  
- * Regarding the initial Jupyter Notebook installation packages, you may refer to [](). 
+ * Regarding the initial installation processes, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
 
  ## Resources
  
  Please cite the bellow references if you are using the codes on this page:
  
- [1] The [fastText](https://fasttext.cc/docs/en/references.html) customized reference:              
- Bojanowski P., Grave E., Joulin A., and Mikolov T., 2017. Enriching word vectors with subword information. TACL 5:135–146.
+ [1] The [fastText](https://fasttext.cc/docs/en/references.html) customized reference: Bojanowski P., Grave E., Joulin A., and Mikolov T., 2017. Enriching word vectors with subword information. TACL 5:135–146.
  
  [2]  Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
  
