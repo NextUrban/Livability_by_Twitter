@@ -28,7 +28,6 @@ Users’ satisfaction of the neighborhoods are evaluated through a social media 
 First step in the process is to download and install the latest release of R and necessary packages such as rTweets:
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
-
 * [R software](https://cran.r-project.org/bin/macosx/)
   * [XQuartz](https://www.xquartz.org/)
 
