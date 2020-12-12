@@ -46,7 +46,7 @@ $
 
   ### Twitter API application
 
-Creating a Twitter application is in the next step.
+In order to be able to connect to the Twitter API and extract the populated Tweets in each data collection span, first it is necessary to create a Twitter application:
 
   * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to link your program and application. 
 
