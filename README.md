@@ -46,11 +46,11 @@ $
 
   ### Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets in each data collection span, it is necessary to first create a Twitter application:
+In order to be able to connect to the Twitter API and extract the populated Tweets from each data collection span, it is necessary to first create a Twitter application:
 
   * Through applying for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to link your program and application. 
 
-  * More details regarding the [data]() and [location](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location) information
+  * More details regarding the Twitter data and location information can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
 Manual topic and location filtration
 
