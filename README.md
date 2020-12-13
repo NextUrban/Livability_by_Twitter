@@ -42,7 +42,7 @@ $  macOS (manual installation)
 
 ## 1. Twitter Authentication
 
-  ### 1.1. Twitter API application
+  #### 1.1. Twitter API application
 
 In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to connect the code to the application. 
 
@@ -50,10 +50,10 @@ More information regarding the Twitter data and location filteration can be foun
 
 $  Manual topic and location filtration
 
-  ### 1.2. Google API
+  #### 1.2. Google API
   
 
-  ### 1.3. Data collection
+  #### 1.3. Data collection
 
 More details regarding the data characteristics are provided below:
 
@@ -64,12 +64,12 @@ $
 
 ## 2. fastText sentiment analysis
 
-  ### 2.1. Applicable and proficient training datasets
+  #### 2.1. Applicable and proficient training datasets
 
  1) [Sentiment 140](http://help.sentiment140.com/for-students)
  2) [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
-  ### 2.2. Sentiment Analysis 
+  #### 2.2. Sentiment Analysis 
  
 The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until the desireable outcome is reached. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
  
@@ -84,7 +84,7 @@ The original fastText code has been modified for the purpose of the current rese
  
  * Regarding the initial installation processes, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
- ## Resources and References
+ ## References
  
  Please cite the bellow references if you are using the codes on this page:
  
