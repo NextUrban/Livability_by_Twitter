@@ -75,7 +75,7 @@ $
  
 ### Sentiment Analysis 
  
-The original fastText code is customized for the purpose of the current research at [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
+The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until the desireable outcome is reached. Besides evaluating the related performance measures, you may check the output sentiment labels manually in every run.   
  
  Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html)
  
