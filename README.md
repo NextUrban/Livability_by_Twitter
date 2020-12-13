@@ -46,7 +46,7 @@ $
 
   ### Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to link your program and application. 
+In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to connect the code to the application. 
 
 More details regarding the Twitter data and location information can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
@@ -69,8 +69,8 @@ $
 ## 2. fastText sentiment analysis
 Applicable and proficient training datasets:
 
- * [Sentiment 140](http://help.sentiment140.com/for-students)
- 
+ * 1) [Sentiment 140](http://help.sentiment140.com/for-students)
+   2) [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
  * Customized fastText [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
  
