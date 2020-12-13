@@ -44,7 +44,7 @@ $
 
 ## 1. Twitter Authentication
 
-  ### Twitter API application
+  ### 1.1. Twitter API application
 
 In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to connect the code to the application. 
 
@@ -54,10 +54,10 @@ Manual topic and location filtration
 
 $ 
 
-  ### Google API
+  ### 1.2. Google API
   
 
-  ### Data collection
+  ### 1.3. Data collection
 
 More details regarding the data characteristics are provided below:
 
@@ -68,16 +68,16 @@ $
 
 ## 2. fastText sentiment analysis
 
-### Applicable and proficient training datasets
+  ### 2.1. Applicable and proficient training datasets
 
  1) [Sentiment 140](http://help.sentiment140.com/for-students)
  2) [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
-### Sentiment Analysis 
+  ### 2.2. Sentiment Analysis 
  
 The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until the desireable outcome is reached. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
  
- Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html)
+ Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html).
  
  
  ## 3. Livability satisfaction visualization
@@ -89,12 +89,12 @@ The original fastText code has been modified for the purpose of the current rese
  * Regarding the initial installation processes, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
 
- ## Resources
+ ## Resources and References
  
  Please cite the bellow references if you are using the codes on this page:
  
  [1] For [fastText](https://fasttext.cc/docs/en/references.html): Bojanowski P., Grave E., Joulin A., and Mikolov T., 2017. Enriching word vectors with subword information. TACL 5:135–146.
  
- [2]  Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
+ [2] Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
  
- [3] [NextUrban]()
+ [3] NextUrban journal paper is under publication.
