@@ -84,7 +84,6 @@ The original fastText code has been modified for the purpose of the current rese
  
  * Regarding the initial installation processes, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
-
  ## Resources and References
  
  Please cite the bellow references if you are using the codes on this page:
