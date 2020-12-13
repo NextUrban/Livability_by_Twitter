@@ -37,9 +37,7 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
-macOS (manual installation)
-
-$
+$  macOS (manual installation)
 
 
 ## 1. Twitter Authentication
@@ -50,9 +48,7 @@ In order to be able to connect to the Twitter API and extract the populated Twee
 
 More information regarding the Twitter data and location filteration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
-Manual topic and location filtration
-
-$ 
+$  Manual topic and location filtration
 
   ### 1.2. Google API
   
@@ -97,4 +93,4 @@ The original fastText code has been modified for the purpose of the current rese
  
  [2] Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
  
- [3] NextUrban journal paper is under publication.
+ [3] NextUrban journal paper containing futher details is under publication.
