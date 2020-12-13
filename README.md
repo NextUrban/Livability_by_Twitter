@@ -67,12 +67,15 @@ More details regarding the data characteristics are provided below:
 $
 
 ## 2. fastText sentiment analysis
-Applicable and proficient training datasets:
 
- * 1) [Sentiment 140](http://help.sentiment140.com/for-students)
-   2) [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
+### Applicable and proficient training datasets
+
+ 1) [Sentiment 140](http://help.sentiment140.com/for-students)
+ 2) [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
- * Customized fastText [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
+### Sentiment Analysis 
+ 
+The original fastText code is customized for the purpose of the current research at [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py)
  
  Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html)
  
