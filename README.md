@@ -56,6 +56,8 @@ $  Manual topic and location filtration
 
   #### 1.3. Data collection
 
+The R commands regarding the whole processes so far, is available at [Rcode](). Using the latest commands at the end of the code you would be able to collect the target keywords or hashtags. 
+
 More details regarding the data characteristics are provided below:
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
