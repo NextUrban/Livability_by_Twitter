@@ -43,7 +43,7 @@ Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versio
 
   #### 1.1. Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process as a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided in order to connect the code to the application. 
+In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided for connecting the code to the application. 
 
 More information regarding the Twitter data and location filteration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
@@ -56,9 +56,9 @@ $  Manual topic and location filtration
 
   #### 1.3. Data collection
 
-The R commands regarding all the prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
+The R commands regarding the all prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
 
-Note: In case of recieving new errors, searching the error message leads you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys for the first connection.
+Note: In case of recieving new errors, searching the error message can lead you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys for the first connection.
 
 More details regarding the data characteristics are provided below:
 
