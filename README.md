@@ -5,21 +5,22 @@ Users’ satisfaction of the neighborhoods is evaluated through a social media d
 
 # Table of Content
 
-[Installation (macOS X)](https://github.com/NextUrban/livTwi/blob/master/README.md#installation)
+[Installation (macOS X)](https://github.com/NextUrban/Livability_by_Twitter#installation-macos-x)
 
 * [Necessary softwares and libraries](https://github.com/NextUrban/livTwi/blob/master/README.md#necessary-softwares-and-libraries)
 
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
 * [1.1. Twitter API application](https://github.com/NextUrban/Livability_by_Twitter#11-twitter-api-application)
-* [Google API](https://github.com/NextUrban/livTwi/blob/master/README.md#google-api)
-* [Data collection](https://github.com/NextUrban/livTwi/blob/master/README.md#data-collection)
+* [1.2. Google API](https://github.com/NextUrban/Livability_by_Twitter#12-google-api)
+* [1.3. Data collection](https://github.com/NextUrban/Livability_by_Twitter#13-data-collection)
 
 [2.   fastText sentiment analysis](https://github.com/NextUrban/livTwi/blob/master/README.md#2-fasttext-sentiment-analysis)
-
+* [2.1. Applicable and proficient training datasets](https://github.com/NextUrban/Livability_by_Twitter#21-applicable-and-proficient-training-datasets)
+* [2.2. Sentiment Analysis](https://github.com/NextUrban/Livability_by_Twitter#22-sentiment-analysis)
 [3.   Livability satisfaction visualization](https://github.com/NextUrban/livTwi/blob/master/README.md#3-livability-satisfaction-visualization)
 
-[Resources](https://github.com/NextUrban/livTwi/blob/master/README.md#4-resources)
+[References](https://github.com/NextUrban/Livability_by_Twitter#references)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
