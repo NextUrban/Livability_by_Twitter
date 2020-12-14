@@ -75,7 +75,7 @@ More details regarding the data characteristics are provided below:
  
   #### 2.2. Sentiment Analysis 
  
-The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until the desireable outcome is reached. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
+The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times as far as reaching the desireable outcome. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
  
  Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html).
  
