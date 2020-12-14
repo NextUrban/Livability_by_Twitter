@@ -50,7 +50,7 @@ Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versio
 
 ## 1. Twitter Authentication
 
-   #### 1.1. Twitter API application
+- #### 1.1. Twitter API application
 
 In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a Twitter [developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided for connecting the code to the application using the bellow commands. More details are avaiable at [R projects](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
 
