@@ -25,7 +25,7 @@ Users’ satisfaction of the neighborhoods are evaluated through a social media 
 
 ## Installation (macOS X)
 
-First step in the process is to download and install the latest release of the program you choose. Here, the data collection process initially has been developed through the R software and later the review mining procedure has been programmed using Python.
+First step in the process is to download and install the latest release of the program you choose. Here, initially the data collection process was developed through the R software and later the review mining procedure was conducted using Python.
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 * [R software](https://cran.r-project.org/bin/macosx/)
