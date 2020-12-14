@@ -60,7 +60,7 @@ The R commands regarding the all prior processes are available at [Rcode](https:
 
 Note: In case of recieving new errors, you may search the error message to lead you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys only at the first connection attempt.
 
-More details regarding the data characteristics are provided below:
+Furthur details regarding the data characteristics are provided below:
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
  * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
@@ -75,18 +75,18 @@ More details regarding the data characteristics are provided below:
  
   #### 2.2. Sentiment Analysis 
  
-The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times as far as reaching the desireable outcome. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
+The original fastText code has been modified for the purpose of our research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until reaching the desireable outcome. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
  
- For furthur information regarding the fastText analysis, please refer to this [link](https://fasttext.cc/docs/en/support.html).
+For more information regarding the fastText analysis, please refer to this [link](https://fasttext.cc/docs/en/support.html).
  
  
  ## 3. Livability satisfaction visualization
  
- After recieving the reliable sententiment output from section 2, a data-driven visualization would reveal the resential satisfaction at the census tract level. Hence, the goal is converting sentiments to an output map through Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble in an interactive dashboard setting (Please stay patient, the code takes time to load).  
+ After recieving the reliable sententiment output, an online visualization method would reveal the resential satisfaction at the census tract level. Therefore, the aim is converting sentiments to an output map using Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
- The code would require using the state zipcode boundries. Therefore, Geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the [link](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file for the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save as the html page and open it from your desktop.
+ As the code would require using the state zipcode boundries, geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save then as a html file and run it from your desktop.
  
- * Regarding the initial installation processes, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
+ * Regarding the initial installation processes of Jupyter Notebook, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
  ## References
  
