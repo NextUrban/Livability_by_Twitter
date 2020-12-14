@@ -1,7 +1,7 @@
 # LivTwi
-This repository is a framework for Livability planing portfolio projects and the new guidelines are being added soon.
+This repository is a framework for Livability planning portfolio projects and the new guidelines are being added soon.
 
-Users’ satisfaction of the neighborhoods are evaluated through a social media data collection, sentiment analysis and visualization procedure. The approach facilitates interpreting an automated user-defined translation of qualitative measures of livability and enhances the traditional approaches for defining livability planning measures. 
+Users’ satisfaction of the neighborhoods is evaluated through a social media data collection, sentiment analysis and visualization procedure. The approach facilitates interpreting an automated user-defined translation of qualitative measures of livability and enhances the traditional approaches for defining livability planning measures. 
 
 # Table of Content
 
@@ -33,7 +33,7 @@ First step in the process is to download and install the latest release of the p
 
 Note: after every major upgrade to a new version, XQartz needs to be re-installed.
 
-#### Necessary softwares and libraries
+#### Necessary software and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
@@ -45,7 +45,7 @@ Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versio
 
 In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided for connecting the code to the application. 
 
-More information regarding the Twitter data and location filteration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
+More information regarding the Twitter data and location filtration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
 $  Manual topic and location filtration
 
@@ -58,9 +58,9 @@ $  Manual topic and location filtration
 
 The R commands regarding the all prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
 
-Note: In case of recieving new errors, you may search the error message to find the new solution. Moreover, ocassionally you might need to regenerate the authentication keys only at the first connection attempt.
+Note: In case of receiving new errors, you may search the error message to find the new solution. Moreover, occasionally you might need to regenerate the authentication keys only at the first connection attempt.
 
-Furthur details regarding the data characteristics are provided below:
+Further details regarding the data characteristics are provided below:
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
  * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
@@ -75,16 +75,16 @@ Furthur details regarding the data characteristics are provided below:
  
   #### 2.2. Sentiment Analysis 
  
-The original fastText code has been modified for the purpose of this research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until reaching the desireable outcome. Besides evaluating the related performance measures, you may manually check the output sentiments in each run.   
+The original fastText code has been modified for the purpose of this research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until reaching the desirable outcome. Besides evaluating the related performance measures, you may manually check the output sentiments in each run.   
  
 For more information regarding the fastText analysis, please refer to this [link](https://fasttext.cc/docs/en/support.html).
  
  
  ## 3. Livability satisfaction visualization
  
- After recieving the reliable sententiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicatble in an interactive dashboard setting (Please stay patient, the code takes time to load).  
+ After receiving the reliable sentiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicable in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
- As the code would require using the state zipcode boundries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
+ As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
  
  Regarding the initial installation processes of Jupyter Notebook, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
@@ -96,4 +96,4 @@ For more information regarding the fastText analysis, please refer to this [link
  
  [2] Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
  
- [3] NextUrban journal paper containing futher details is under publication.
+ [3] NextUrban journal paper containing further details is under publication.
