@@ -37,7 +37,7 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
-Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets) command only works if [Xcode](https://www.embarcadero.com/starthere/berlin/mobdevsetup/ios/en/installing_xcode_on_a_mac.html) is installed or updated.
+Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets) command (from rtweet library) only works if [Xcode](https://www.embarcadero.com/starthere/berlin/mobdevsetup/ios/en/installing_xcode_on_a_mac.html) is installed or updated on Mac.
 $  (manual installation)
 
 
