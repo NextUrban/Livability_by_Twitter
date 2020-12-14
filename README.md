@@ -69,7 +69,7 @@ $  Manual topic and location filtration
 
 #### 1.3. Data collection
 
-The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. 
+The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
 
     tweets <- search_tweets(q = "NashTheTraffic", n = 10000, lang = "en", geocode = lookup_coords("State"))
     df = data.frame(lapply(tweets, as.character))
@@ -100,7 +100,7 @@ For more information regarding the fastText analysis, please refer to this [link
  
  ## 3. Livability satisfaction visualization
  
- After receiving the reliable sentiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The web-based [code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicable in an interactive dashboard setting (Please stay patient, the code takes time to load).  
+ After receiving the reliable sentiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The [web-based code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicable in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
  As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
  
