@@ -5,13 +5,13 @@ Users’ satisfaction of the neighborhoods is evaluated through a social media d
 
 # Table of Content
 
-[Installation](https://github.com/NextUrban/livTwi/blob/master/README.md#installation)
+[Installation (macOS X)](https://github.com/NextUrban/livTwi/blob/master/README.md#installation)
 
 * [Necessary softwares and libraries](https://github.com/NextUrban/livTwi/blob/master/README.md#necessary-softwares-and-libraries)
 
 [1.   Twitter Authentication](https://github.com/NextUrban/livTwi/blob/master/README.md#1-twitter-authentication)
 
-* [Twitter API application](https://github.com/NextUrban/livTwi/blob/master/README.md#twitter-api-application)
+* [1.1. Twitter API application](https://github.com/NextUrban/Livability_by_Twitter#11-twitter-api-application)
 * [Google API](https://github.com/NextUrban/livTwi/blob/master/README.md#google-api)
 * [Data collection](https://github.com/NextUrban/livTwi/blob/master/README.md#data-collection)
 
