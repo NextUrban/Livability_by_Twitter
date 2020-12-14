@@ -92,7 +92,7 @@ Further details regarding the data characteristics are provided below:
    * [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
 
-* #### 2.2. Sentiment Analysis 
+#### 2.2. Sentiment Analysis 
  
 The original fastText code has been modified for the purpose of this research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until reaching the desirable outcome. Besides evaluating the related performance measures, you may manually check the output sentiments in each run.   
  
