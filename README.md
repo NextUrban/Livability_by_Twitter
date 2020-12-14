@@ -38,6 +38,7 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 * Scripted installations
+
       update.packages()
       install.packages("rlang")
       install.packages(“openssl”)
