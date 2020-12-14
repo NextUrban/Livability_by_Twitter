@@ -80,7 +80,7 @@ Note: In case of receiving new errors, you may search the error message to find 
 Further details regarding the data characteristics are provided below:
 
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
- * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
+ * [geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
 
 ## 2. fastText sentiment analysis
@@ -102,7 +102,7 @@ For more information regarding the fastText analysis, please refer to the [fastT
  
  After receiving the reliable sentiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The [web-based code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicable in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
- As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
+ As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON). Here is the original [source]( ) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
  
  Regarding the initial installation processes of Jupyter Notebook, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
