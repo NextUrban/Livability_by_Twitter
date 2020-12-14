@@ -95,7 +95,7 @@ Further details regarding the data characteristics are provided below:
  
 The original fastText code has been modified for the purpose of this research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times until reaching the desirable outcome. Besides evaluating the related performance measures, you may manually check the output sentiments in each run.   
  
-For more information regarding the fastText analysis, please refer to this [link](https://fasttext.cc/docs/en/support.html).
+For more information regarding the fastText analysis, please refer to the [fastText support](https://fasttext.cc/docs/en/support.html).
  
  
  ## 3. Livability satisfaction visualization
