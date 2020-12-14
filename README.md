@@ -23,7 +23,7 @@ Users’ satisfaction of the neighborhoods are evaluated through a social media 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Installation
+## Installation (macOS X)
 
 First step in the process is to download and install the latest release of R and necessary packages such as rTweets:
 
@@ -37,7 +37,8 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
-$  macOS (manual installation)
+The Twitter search command only works if [Xcode](https://www.embarcadero.com/starthere/berlin/mobdevsetup/ios/en/installing_xcode_on_a_mac.html) is installed or updated.
+$  (manual installation)
 
 
 ## 1. Twitter Authentication
