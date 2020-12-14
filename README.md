@@ -25,7 +25,7 @@ Users’ satisfaction of the neighborhoods are evaluated through a social media 
 
 ## Installation (macOS X)
 
-First step in the process is to download and install the latest release of R and necessary packages such as rTweets:
+First step in the process is to download and install the latest release for your choice of program. Here, the data collection process initially has been developed using R and later the review mining process is programmed in Python.
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 * [R software](https://cran.r-project.org/bin/macosx/)
@@ -61,7 +61,6 @@ More details regarding the data characteristics are provided below:
  * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
  * [geospatial metadata](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object)
  
-$
 
 ## 2. fastText sentiment analysis
 
