@@ -37,6 +37,7 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 #### Necessary software and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
+* Scripted installations
       
       update.packages()
       install.packages("rlang")
@@ -80,8 +81,8 @@ Note: In case of receiving new errors, you may search the error message to find 
 
 Further details regarding the data characteristics are provided below:
 
- * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
- * [geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
+   * [Data dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object) 
+   * [geospatial metadata](https://developer.twitter.com/en/docs/tutorials/tweet-geo-metadata)
  
 
 ## 2. fastText sentiment analysis
