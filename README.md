@@ -60,18 +60,18 @@ In order to be able to connect to the Twitter API and extract the populated Twee
     token <- create_token(app = "account",
     +                       consumer_key = " ", consumer_secret = "", access_token = " ", access_secret = " ")
 
-* More information regarding the Twitter data and location filtration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
+More information regarding the Twitter data and location filtration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
 $  Manual topic and location filtration
 
-* #### 1.2. Google API
+#### 1.2. Google API
   
 
 
 
 #### 1.3. Data collection
 
-* The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
+The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
 
     tweets <- search_tweets(q = "NashTheTraffic", n = 10000, lang = "en", geocode = lookup_coords("State"))
     df = data.frame(lapply(tweets, as.character))
@@ -87,7 +87,7 @@ Further details regarding the data characteristics are provided below:
 
 ## 2. fastText sentiment analysis
 
-* #### 2.1. Applicable and proficient training datasets
+#### 2.1. Applicable and proficient training datasets
    * [Sentiment 140](http://help.sentiment140.com/for-students)
    * [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
