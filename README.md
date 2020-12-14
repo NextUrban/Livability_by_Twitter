@@ -45,7 +45,7 @@ $  (manual installation)
 
   #### 1.1. Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided in order to connect the code to the application. 
+In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided in order to connect the code to the application. 
 
 More information regarding the Twitter data and location filteration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
