@@ -56,7 +56,7 @@ $  Manual topic and location filtration
 
   #### 1.3. Data collection
 
-The R commands regarding all the prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags in every data collection. 
+The R commands regarding all the prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
 
 Note: In case of recieving new errors, searching the error message leads you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys for the first connection.
 
