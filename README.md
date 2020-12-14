@@ -50,9 +50,9 @@ Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versio
 
 ## 1. Twitter Authentication
 
-- #### 1.1. Twitter API application
+#### 1.1. Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a Twitter [developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided for connecting the code to the application using the bellow commands. More details are avaiable at [R projects](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
+* In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a Twitter [developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided for connecting the code to the application using the bellow commands. More details are avaiable at [R projects](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
 
     library(rtweet)
     library(readr)
@@ -60,7 +60,7 @@ In order to be able to connect to the Twitter API and extract the populated Twee
     token <- create_token(app = "account",
     +                       consumer_key = " ", consumer_secret = "", access_token = " ", access_secret = " ")
 
-More information regarding the Twitter data and location filtration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
+* More information regarding the Twitter data and location filtration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
 $  Manual topic and location filtration
 
@@ -69,9 +69,9 @@ $  Manual topic and location filtration
 
 
 
-* #### 1.3. Data collection
+#### 1.3. Data collection
 
-The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
+* The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
 
     tweets <- search_tweets(q = "NashTheTraffic", n = 10000, lang = "en", geocode = lookup_coords("State"))
     df = data.frame(lapply(tweets, as.character))
