@@ -87,9 +87,8 @@ Further details regarding the data characteristics are provided below:
 ## 2. fastText sentiment analysis
 
 * #### 2.1. Applicable and proficient training datasets
-
- * [Sentiment 140](http://help.sentiment140.com/for-students)
- * [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
+   * [Sentiment 140](http://help.sentiment140.com/for-students)
+   * [SemEval-2017](http://alt.qcri.org/semeval2017/task4/) Task 4  (subtask A-sentiment analysis in Twitter) accumulated datasets
  
 
 * #### 2.2. Sentiment Analysis 
