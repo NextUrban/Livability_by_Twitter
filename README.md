@@ -56,9 +56,9 @@ $  Manual topic and location filtration
 
   #### 1.3. Data collection
 
-The R commands regarding the all prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
+The R commands regarding the all prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code, would help you to extract the target keywords or hashtags on every data collection attempt. 
 
-Note: In case of recieving new errors, searching the error message can lead you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys for the first connection.
+Note: In case of recieving new errors, you may search the error message to lead you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys only at the first connection attempt.
 
 More details regarding the data characteristics are provided below:
 
@@ -77,7 +77,7 @@ More details regarding the data characteristics are provided below:
  
 The original fastText code has been modified for the purpose of the current research. The [code](https://github.com/NextUrban/livTwi/blob/master/sentiment_analysis.py) needs to be run a few times as far as reaching the desireable outcome. Besides evaluating the related performance measures, you may check the output sentiments in every run manually.   
  
- Furthur information regarding fastText can be found [here](https://fasttext.cc/docs/en/support.html).
+ For furthur information regarding the fastText analysis, please refer to this [link](https://fasttext.cc/docs/en/support.html).
  
  
  ## 3. Livability satisfaction visualization
