@@ -69,7 +69,11 @@ $  Manual topic and location filtration
 
 #### 1.3. Data collection
 
-The R commands regarding the all prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code, you would be able to extract the target keywords or hashtags on every data collection attempt. 
+The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. 
+
+    tweets <- search_tweets(q = "NashTheTraffic", n = 10000, lang = "en", geocode = lookup_coords("State"))
+    df = data.frame(lapply(tweets, as.character))
+    write_excel_csv(x = tweets_data(df), "./StateKeywordDate.csv", na = "")
 
 Note: In case of receiving new errors, you may search the error message to find the new solution. Moreover, occasionally you might need to regenerate the authentication keys only at the first connection attempt.
 
