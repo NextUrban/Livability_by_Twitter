@@ -25,7 +25,7 @@ Users’ satisfaction of the neighborhoods are evaluated through a social media 
 
 ## Installation (macOS X)
 
-First step in the process is to download and install the latest release for your choice of program. Here, the data collection process initially has been developed using R and later the review mining process is programmed in Python.
+First step in the process is to download and install the latest release of the program your choose. Here, the data collection process initially has been developed through the R software and later the review mining procedure has been programmed using Python.
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 * [R software](https://cran.r-project.org/bin/macosx/)
@@ -38,14 +38,12 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
 
 Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets) command (from rtweet library) only works if [Xcode](https://www.embarcadero.com/starthere/berlin/mobdevsetup/ios/en/installing_xcode_on_a_mac.html) is installed or updated on Mac.
-$  (manual installation)
-
 
 ## 1. Twitter Authentication
 
   #### 1.1. Twitter API application
 
-In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided in order to link the code to the application. 
+In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process as a [Twitter developer access](https://developer.twitter.com/en/apply-for-access), four authentication [keys](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html) would be provided in order to connect the code to the application. 
 
 More information regarding the Twitter data and location filteration can be found [here](https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location).
 
@@ -58,7 +56,9 @@ $  Manual topic and location filtration
 
   #### 1.3. Data collection
 
-The R commands regarding the prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags. 
+The R commands regarding all the prior processes are available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of this code, you would be able to extract the target keywords or hashtags in every data collection. 
+
+Note: In case of recieving new errors, searching the error message leads you the new answers. Moreover, ocassionally you might need to regenerate the authentication keys for the first connection.
 
 More details regarding the data characteristics are provided below:
 
