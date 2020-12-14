@@ -37,7 +37,7 @@ Note: after every major upgrade to a new version, XQartz needs to be re-installe
 #### Necessary software and libraries
 
 * [Necessary R packages](https://cran.r-project.org/web/packages/nat/vignettes/Installation.html)
-
+      
       update.packages()
       install.packages("rlang")
       install.packages(“openssl”)
@@ -49,7 +49,7 @@ Note: The [Twitter search](https://www.rdocumentation.org/packages/rtweet/versio
 
 ## 1. Twitter Authentication
 
-   #### 1.1. Twitter API application
+* #### 1.1. Twitter API application
 
 In order to be able to connect to the Twitter API and extract the populated Tweets over the data collection period, it is first necessary to create a Twitter application. During this application process for a Twitter [developer access](https://developer.twitter.com/en/apply-for-access), four authentication keys would be provided for connecting the code to the application using the bellow commands. More details are avaiable at [R projects](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
 
@@ -63,12 +63,12 @@ More information regarding the Twitter data and location filtration can be found
 
 $  Manual topic and location filtration
 
-#### 1.2. Google API
+* #### 1.2. Google API
   
 
 
 
-#### 1.3. Data collection
+* #### 1.3. Data collection
 
 The R commands regarding the prior processes are also available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code (mentioned bellow), you would be able to extract the target keywords or hashtags on every data collection attempt. To learn more about the command syntax please refere to [Twitter search](https://www.rdocumentation.org/packages/rtweet/versions/0.6.8/topics/search_tweets).
 
