@@ -54,6 +54,8 @@ $  Manual topic and location filtration
   #### 1.2. Google API
   
 
+
+
   #### 1.3. Data collection
 
 The R commands regarding the whole processes so far, is available at [Rcode](https://github.com/NextUrban/Livability_by_Twitter/blob/master/Rcodes.R). Using the latest commands at the end of the code you would be able to collect the target keywords or hashtags. 
