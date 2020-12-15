@@ -103,7 +103,7 @@ For more information regarding the fastText analysis, please refer to the [fastT
  
  After receiving the reliable sentiment output, an online visualization method would reveal the residential satisfaction at the census tract level. Therefore, the aim is to converting the sentiments into an output map using Jupyter notebook (iPhyton). The [web-based code](https://github.com/NextUrban/livTwi/blob/master/Jupyter_visualization.ipynb) is also applicable in an interactive dashboard setting (Please stay patient, the code takes time to load).  
  
- As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://www.opendatadelaware.com/). Here is the original [source](https://github.com/OpenDataDE/State-zip-code-GeoJSON) for the applied geoJSON file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
+ As the code would require using the state zipcode boundaries, a geospatial metadata (as geoJSON files) were extracted from [Open Data Delaware](https://www.opendatadelaware.com/). Here is the original source for the applied [geoJSON](https://github.com/OpenDataDE/State-zip-code-GeoJSON) file in the current state project. Moreover, some example Jupyter outputs are available at [docs](https://github.com/NextUrban/Livability_by_Twitter/tree/master/docs) folder. You can save them as a html file and run it from your desktop.
  
  Regarding the initial installation processes of Jupyter Notebook, please refer to [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
  
