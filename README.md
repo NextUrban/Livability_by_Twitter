@@ -111,8 +111,8 @@ For more information regarding the fastText analysis, please refer to the [fastT
  
  Please cite the bellow references if you are using the codes on this page:
  
- [1] For [fastText](https://fasttext.cc/docs/en/references.html): Bojanowski P., Grave E., Joulin A., and Mikolov T., 2017. Enriching word vectors with subword information. TACL 5:135–146.
+ [1] Bojanowski P., Grave E., Joulin A., and Mikolov T., 2017. Enriching word vectors with subword information. TACL 5:135–146. From [fastText](https://fasttext.cc/docs/en/references.html) page.
  
  [2] Sarram G., Ivey S. S., 2018. [Investigating Customer Satisfaction Patterns in a Community Livability Context: An Efficiency-Oriented Decision-Making Approach](https://ascelibrary.org/doi/abs/10.1061/9780784481561.019). ASCE International Conference on Transportation and Development.
  
- [3] NextUrban journal paper containing further details is under publication.
+ [3] NextUrban journal paper including further details is under publication.
