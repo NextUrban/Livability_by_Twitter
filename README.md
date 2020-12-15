@@ -66,7 +66,7 @@ $  Manual topic and location filtration
 
 #### 1.2. Google API
   
-
+Information will be added soon.
 
 
 #### 1.3. Data collection
