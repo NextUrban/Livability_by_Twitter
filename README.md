@@ -1,5 +1,5 @@
 # LivTwi
-This repository is a framework for Livability planning portfolio projects and the new guidelines are being added.
+This repository is a framework for Livability planning portfolio projects and the new guidelines are being added regularly.
 
 Users’ satisfaction of the neighborhoods is evaluated through a social media data collection, sentiment analysis and visualization procedure. The approach facilitates interpreting an automated user-defined translation of qualitative measures of livability and enhances the traditional approaches for defining livability planning measures. 
 
